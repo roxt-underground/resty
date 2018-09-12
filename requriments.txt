@@ -1,0 +1,6 @@
+django==2.0.1
+djangorestframework
+drf-extensions
+django-rest-swagger
+markdown       # Markdown support for the browsable API.
+django-filter  # Filtering support
